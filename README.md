@@ -31,7 +31,14 @@ git clone https://github.com/nanic1/aptovc-scrap
 cd aptovc-scrap
 ```
 
-### 2- Defina a cidade que deseja filtar
+### 2- Instale as dependências necessárias
+Ainda no terminal, execute:
+
+```
+pip install pandas
+```
+
+### 3- Defina a cidade que deseja filtar
 Com o código aberto, na função main, mude o **base_path** para o UF e cidade que deseja filtrar. **NÃO** use acentos no caminho.
 
 Ex:
@@ -47,7 +54,7 @@ base_path = "/br/sp/sao-paulo"
 
 O apto.vc não fornece cobertura para todos os estados e cidades. Consultar o [apto.vc](https://apto.vc/) para mais informações.
 
-### 3-Execute a aplicação
+### 4- Execute a aplicação
 No terminal, execute:
 
 ```
