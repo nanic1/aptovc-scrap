@@ -1,6 +1,6 @@
-# Scraper Apto.vc
+# Condomínio Scrap
 
-Esta aplicação realiza scraping de condomínios do site [Apto.vc](https://apto.vc/). A aplicação coleta todos os condomínios na pagina via request e armazena em um arquivo Excel formatado.
+Esta aplicação realiza scraping de condomínios de diversos sites. A aplicação coleta todos os condomínios na pagina via request e armazena em um arquivo Excel formatado.
 
 ---
 
