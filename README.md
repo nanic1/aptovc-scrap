@@ -34,6 +34,8 @@ git clone https://github.com/nanic1/condominio-scrap
 cd condominio-scrap
 ```
 
+É necessário ter o Git instalado para fazer a clonagem deste repositório.
+
 ### 2- Instale as dependências necessárias
 Dentro do projeto, execute no terminal:
 
